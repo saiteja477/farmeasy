@@ -1,0 +1,49 @@
+.soiltesting__form{
+    margin-top: 10px;
+    background-color:beige;
+    width: 20%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    border-radius: 5px;
+    padding: 1%;
+    float: left;
+    margin: 1%;
+}
+.first__div{
+    padding : 1%;
+    color: white;
+    background-color: 009900;
+    width: 30%;
+    border: solid black;
+    float: left;
+    
+}
+
+.second__div{
+    padding : 1%;
+    color: white;
+    background-color: 009900;
+    width: 48%;
+    border: solid black;
+    float: left;
+    background-color:gray
+    
+}
+.form__input{
+    margin-top: 20px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.form__address{
+    margin-top: 20px;
+    border: none;
+    border-bottom: 2px solid black;
+    height: 100px;
+}
+.form__file{
+    margin-top: 20px;
+}

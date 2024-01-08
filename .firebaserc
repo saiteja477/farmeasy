@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "challenge-f1374",
+    "build": "challenge-f1374"
+  },
+  "targets": {}
+}

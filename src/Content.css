@@ -1,0 +1,127 @@
+.content{
+    height: 100px !important;
+    overflow: visible;
+}
+.content__orders__heading{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.firstCorousal>img{
+    object-fit: cover;
+    z-index:-1;
+    
+}
+.secondCorousal>img{
+    object-fit: cover;
+    z-index:-1;
+   
+}
+.content__carousel{
+    z-index: -1;
+    margin-bottom: -800px;
+}
+
+
+.content__foreground{
+   z-index: 1;
+    
+}
+
+.content__orders{
+    margin-left: 30px;
+    background-color: white;
+    height: 380px;
+    width: 400px;
+    border-radius: 10px;
+   
+}
+.order__one{
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 100px;
+    width: 150px;
+    background-image: url('https://content3.jdmagicbox.com/comp/def_content/fertilizer-dealers/shutterstock-1087283084-fertilizer-dealers-1-nrt2m.jpg');
+    background-size: cover;
+}
+.order__one__p{
+    margin-left: 20px;
+}
+.order__two{
+    margin-top: 10px;
+    height: 100px;
+    width: 150px;
+    background-image: url('https://5.imimg.com/data5/BB/HR/JN/SELLER-13524243/pesticide-chemicals-500x500.png');
+    background-size: cover;
+}
+
+.order__three{
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 100px;
+    width: 150px;
+    background-image: url('https://media.istockphoto.com/photos/farmer-spraying-vegetable-green-plants-in-the-garden-with-herbicides-picture-id1253886250?k=20&m=1253886250&s=612x612&w=0&h=YsRv_6a58cqBdB_LRYGyfihojHM_j4S_VvRanHeOkoI=');
+    background-size: cover;
+}
+.order__three__p{
+    margin-left: 20px;
+}
+
+.order__four{
+    margin-top: 10px;
+    height: 100px;
+    width: 150px;
+    background-image: url('https://www.biovoicenews.com/wp-content/uploads/2016/04/biofertilizer-3.jpg');
+    background-size: cover;
+}
+
+.content__test{
+    background-color: white;
+    margin-left: 30px;
+    background-color: white;
+    height: 380px;
+    width: 400px;
+    border-radius: 10px;
+    background-image: url('https://smartnitrogen.com/wp-content/uploads/2019/09/Soil-testing-tips-for-the-perfect-fertilizer-application-e1569355003270.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content__test__heading{
+    padding-top: 20px;
+    text-align: center;
+}
+.content__test__button{
+    background-color: rgba(27, 39, 206, 0.205);
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.test__datepicker{
+    margin-top: 30px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+#text{
+    margin-top: 10px;
+    margin-left: 100px;
+
+}
+
+.content__expert{
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 100px;
+    background-color: rgba(90, 47, 47, 0.342);
+    height: 80px;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+}
+.expert__button{
+    margin-top: 20px;
+    background-color: blueviolet;
+}
+
+.expert__popup{
+    
+}
